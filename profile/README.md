@@ -1,14 +1,6 @@
 # Alaska Software — Xbase++ Samples & Technology Demos
 
 <p align="center">
-  <img src="https://www.alaska-software.com/billboard-data/pictures/alaska-brand.png" alt="Alaska Software" width="320">
-</p>
-
-<p align="center">
-  <strong>Public sample code, technology demos, and community resources for the Xbase++ development platform.</strong>
-</p>
-
-<p align="center">
   <a href="https://www.alaska-software.com">Website</a> · 
   <a href="https://doc.alaska-software.com">Documentation</a> · 
   <a href="https://ilx.alaska-software.com">ILX Knowledge Portal</a> · 
