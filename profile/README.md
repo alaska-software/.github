@@ -55,7 +55,7 @@ More samples and technology demos will be added over time. Watch this organizati
 | Official Website | https://www.alaska-software.com |
 | Xbase++ Documentation | https://doc.alaska-software.com |
 | ILX Knowledge Portal | https://ilx.alaska-software.com |
-| CXP Online Samples | https://samples.alaska-software.com/cxp-features/index.cxp |
+| CXP Online Samples | https://samples.alaska-software.com |
 | All-About-Code (YouTube) | https://www.youtube.com/channel/UCJV2NCN0Mj-uhE-6WZKsuJA |
 
 ## License
